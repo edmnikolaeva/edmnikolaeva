@@ -15,9 +15,8 @@ I am a System Analyst, currently open to new work opportunities. My core:
 ### TOOLS
 
 ### 📋 Requirements
-![User Story](https://img.shields.io/badge/User%20Story-FFA500?style=for-the-badge) 
+[![User Story](https://img.shields.io/badge/User%20Story-FFA500?style=for-the-badge)](https://miro.com/app/board/uXjVJWxOVAo=/)
 ![Use Case](https://img.shields.io/badge/Use%20Case-FFC107?style=for-the-badge) 
-![USM](https://img.shields.io/badge/USM-FFD54F?style=for-the-badge)
 
 ### 📝 Processes
 ![BPMN](https://img.shields.io/badge/BPMN-2.0-8BC34A?style=for-the-badge) 
