@@ -27,7 +27,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 [![Use Case](https://img.shields.io/badge/Use%20Case-FFB300?style=for-the-badge)](https://github.com/edmnikolaeva/use_case/tree/main)
 
 ### 📝 Processes
-![BPMN](https://img.shields.io/badge/BPMN%202.0-8BC34A?style=for-the-badge&logoColor=white)
+[![BPMN](https://img.shields.io/badge/BPMN%202.0-8BC34A?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/BPMN)
 ![UML](https://img.shields.io/badge/UML-7CB342?style=for-the-badge&logoColor=white)
 ![DFD](https://img.shields.io/badge/DFD-7CB342?style=for-the-badge)
 
