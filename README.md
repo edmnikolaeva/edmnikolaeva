@@ -12,6 +12,12 @@ I am a System Analyst, currently open to new work opportunities. My core:
 - Structured requirements & detailed documentation
 - Reduced ambiguity between business and engineering teams
 
+### FEATURED PROJECTS
+
+[📱 Smart Home Mobile App — From Scratch to MVP in 4 weeks](https://github.com/edmnikolaeva/stets_home)  
+
+[🐾 Pet Shop Mobile App — New API Feature Delivered in 2 weeks](https://github.com/edmnikolaeva/pet_store)
+
 ---
 
 ### 🧰 TOOLBOX:
