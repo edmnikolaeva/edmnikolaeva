@@ -51,7 +51,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 ![SRS](https://img.shields.io/badge/SRS-A1887F?style=for-the-badge&logoColor=white)
 [![Test Plan](https://img.shields.io/badge/Test%20Plan-A1887F?style=for-the-badge)](https://github.com/edmnikolaeva/test_plan)
 [![Test Report](https://img.shields.io/badge/Test%20Report-A1887F?style=for-the-badge)](https://github.com/edmnikolaeva/test_report)
-![User Manuals](https://img.shields.io/badge/User_Manuals-A1887F?style=for-the-badge&logoColor=white)
+[![User Manuals](https://img.shields.io/badge/User_Manuals-A1887F?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/user_manual)
 
 ---
 
