@@ -37,7 +37,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 
 ### 🎨 UI
 [![ISD](https://img.shields.io/badge/ISD-BA68C8?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/ISD)
-![Figma](https://img.shields.io/badge/Figma-AB47BC?style=for-the-badge&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-AB47BC?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/figma)
 
 ### 🛠 API & Architecture
 ![JSON](https://img.shields.io/badge/JSON-78909C?style=for-the-badge)
