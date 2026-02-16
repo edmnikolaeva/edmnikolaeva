@@ -23,7 +23,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 ### 🧰 TOOLBOX:
 
 ### 📋 Requirements
-[![User Story](https://img.shields.io/badge/User%20Story-FFA500?style=for-the-badge&logoColor=white "Open User Story Map in Miro")](https://miro.com/app/board/uXjVJWxOVAo=/)
+[![User Story](https://img.shields.io/badge/User%20Story-FFA500?style=for-the-badge&logoColor=white "Open User Story Map in Miro")](https://github.com/edmnikolaeva/USM)
 [![Use Case](https://img.shields.io/badge/Use%20Case-FFB300?style=for-the-badge)](https://github.com/edmnikolaeva/use_case/tree/main)
 
 ### 📝 Processes
