@@ -44,6 +44,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 [![REST API](https://img.shields.io/badge/REST_API-90A4AE?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/rest)
 [![XML](https://img.shields.io/badge/XML-78909C?style=for-the-badge)](https://github.com/edmnikolaeva/xml)
 ![SOAP](https://img.shields.io/badge/SOAP_API-90A4AE?style=for-the-badge&logoColor=white)
+[![Architecture](https://img.shields.io/badge/Architecture-90A4AE?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/architecture)
 ![C4](https://img.shields.io/badge/C4-78909C?style=for-the-badge&logoColor=white)
 
 ### 📚 Documentation
