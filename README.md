@@ -29,8 +29,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 ### 📝 Processes
 [![BPMN](https://img.shields.io/badge/BPMN%202.0-8BC34A?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/BPMN)
 [![UML](https://img.shields.io/badge/UML-7CB342?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/uml_diagrams)
-![DFD](https://img.shields.io/badge/DFD-7CB342?style=for-the-badge)
-
+[![DFD](https://img.shields.io/badge/DFD-7CB342?style=for-the-badge)](https://github.com/edmnikolaeva/DFD)
 
 ### 💾 Data & DB
 ![ER](https://img.shields.io/badge/ER%20Diagram-4DB6AC?style=for-the-badge&logoColor=white)
