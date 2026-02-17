@@ -34,9 +34,6 @@ I am a System Analyst, currently open to new work opportunities. My core:
 [![ER](https://img.shields.io/badge/ER%20Diagram-4DB6AC?style=for-the-badge&logoColor=white "Entity-Relationship diagrams for database structure and relationships")](https://github.com/edmnikolaeva/ER)
 [![SQL](https://img.shields.io/badge/SQL-26A69A?style=for-the-badge&logoColor=white "SQL scripts and queries demonstrating data handling and database operations")](https://github.com/edmnikolaeva/SQL)
 
-### 🎨 UI
-[![Figma](https://img.shields.io/badge/Figma-AB47BC?style=for-the-badge&logoColor=white "Low-fidelity interactive prototypes for Smart Home mobile app")](https://github.com/edmnikolaeva/figma)
-
 ### 🛠 API & Architecture
 [![REST API](https://img.shields.io/badge/REST_API-90A4AE?style=for-the-badge&logoColor=white "REST API documentation and example endpoints for feature implementation")](https://github.com/edmnikolaeva/rest)
 [![C4](https://img.shields.io/badge/C4-78909C?style=for-the-badge&logoColor=white "C4 architecture diagrams showing system context, containers, and components")](https://github.com/edmnikolaeva/C4)
@@ -45,6 +42,9 @@ I am a System Analyst, currently open to new work opportunities. My core:
 ### 📚 Documentation
 [![SRS](https://img.shields.io/badge/SRS-A1887F?style=for-the-badge&logoColor=white "Software Requirements Specification for clear functional and non-functional requirements")](https://github.com/edmnikolaeva/SRS)
 [![Test Plan](https://img.shields.io/badge/Test%20Plan-A1887F?style=for-the-badge&logoColor=white "Test plans outlining cases, criteria, and validation steps for system features")](https://github.com/edmnikolaeva/test_plan)
+
+### 🎨 UI
+[![Figma](https://img.shields.io/badge/Figma-AB47BC?style=for-the-badge&logoColor=white "Low-fidelity interactive prototypes for Smart Home mobile app")](https://github.com/edmnikolaeva/figma)
 
 [More examples](https://github.com/edmnikolaeva/more_examples/tree/main "Additional projects and examples demonstrating broader skill set")
 
