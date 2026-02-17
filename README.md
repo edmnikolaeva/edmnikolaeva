@@ -20,7 +20,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 
 ---
 
-## 🧰 TOOLBOX
+### 🧰 TOOLBOX
 
 | 📋 Requirements | 📝 Processes | 💾 Data & DB | 🛠 API & Architecture | 📚 Documentation | 🎨 UI |
 |-----------------|--------------|--------------|---------------------|-----------------|-------|
