@@ -33,7 +33,7 @@ I am a System Analyst, currently open to new work opportunities. My core:
 
 ### 💾 Data & DB
 [![ER](https://img.shields.io/badge/ER%20Diagram-4DB6AC?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/ER)
-![SQL](https://img.shields.io/badge/SQL-26A69A?style=for-the-badge&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-26A69A?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/SQL)
 
 ### 🎨 UI
 [![ISD](https://img.shields.io/badge/ISD-BA68C8?style=for-the-badge&logoColor=white)](https://github.com/edmnikolaeva/ISD)
