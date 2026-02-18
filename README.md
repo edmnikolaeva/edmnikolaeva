@@ -30,6 +30,22 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+<a href="https://github.com/edmnikolaeva/pet_store">🐾 PET SHOP MOBILE APP — Pet Insurance Feature</a>  
+Developed and launched “Pet Insurance” functionality for the LUCKY app (handling ~5,000 daily active users with ≤10s response time), enabling quick entry into the growing pet insurance market, revenue growth through new monetization stream, and scalable architecture for additional pet types/services
+</td>
+<td width="220">
+<a href="https://github.com/edmnikolaeva/pet_store">
+<img src="https://github.com/edmnikolaeva/pet_store/blob/main/project_logo.png" 
+     alt="Visual Anchor — Project Logo" 
+     width="200"/>
+</a>
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🧰 TOOLBOX
