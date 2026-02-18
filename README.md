@@ -50,72 +50,73 @@ Developed and launched “Pet Insurance” functionality for the LUCKY app (hand
 
 ### 🧰 TOOLBOX
 
-<p align="center">
+<div>
 
 <a href="https://github.com/edmnikolaeva/USM" title="User Story Map">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/usm_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="User Story Map"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/BPMN" title="BPMN 2.0">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/bpmn_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="BPMN"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/uml_diagrams" title="UML Diagrams">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/uml_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="UML"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/rest" title="REST API">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/api_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="REST API"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/architecture" title="C4 & Architecture">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/architecture_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="Architecture"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/SQL" title="SQL Queries & Database Analytics">
-  <img src="https://github.com/edmnikolaeva/logo/blob/main/SQL_icon.png"
-       width="80" height="80"
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/sql_logo.png"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="SQL"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/figma" title="Figma Prototypes">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/figma_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="Figma"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/SRS" title="SRS & Documentation">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/srs_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="SRS"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/more_examples" title="More System Analysis Examples">
   <img src="https://github.com/edmnikolaeva/logo/blob/main/more_logo.png"
-       width="80" height="80"
+       width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="More examples"/>
 </a>
 
-</p>
+</div>
+
 
 ---
 
