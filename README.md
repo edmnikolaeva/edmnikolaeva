@@ -50,10 +50,72 @@ Developed and launched “Pet Insurance” functionality for the LUCKY app (hand
 
 ### 🧰 TOOLBOX
 
-| 📋 Requirements | 📝 Processes | 💾 Data & DB | 🛠 API & Architecture | 📚 Documentation | 🎨 UI |
-|-----------------|--------------|--------------|---------------------|-----------------|-------|
-| [![User Story](https://img.shields.io/badge/User%20Story-91C9E1?style=for-the-badge&logoColor=white "User Story Map demonstrating feature planning and requirement breakdown for Smart Home app")](https://github.com/edmnikolaeva/USM) | [![BPMN](https://img.shields.io/badge/BPMN%202.0-80CBC4?style=for-the-badge&logoColor=white "BPMN 2.0 diagrams modeling business processes for Smart Home and Pet Shop apps")](https://github.com/edmnikolaeva/BPMN) | [![ER](https://img.shields.io/badge/ER%20Diagram-64B5F6?style=for-the-badge&logoColor=white "Entity-Relationship diagrams for database structure and relationships")](https://github.com/edmnikolaeva/ER) | [![REST API](https://img.shields.io/badge/REST_API-81C784?style=for-the-badge&logoColor=white "REST API documentation and example endpoints for feature implementation")](https://github.com/edmnikolaeva/rest) | [![SRS](https://img.shields.io/badge/SRS-4DB6AC?style=for-the-badge&logoColor=white "Software Requirements Specification for clear functional and non-functional requirements")](https://github.com/edmnikolaeva/SRS) | [![Figma](https://img.shields.io/badge/Figma-64B5F6?style=for-the-badge&logoColor=white "Low-fidelity interactive prototypes for Smart Home mobile app")](https://github.com/edmnikolaeva/figma) |
-| [![Use Case](https://img.shields.io/badge/Use%20Case-81D4FA?style=for-the-badge&logoColor=white "Use Case diagrams showing functional interactions and scenarios for mobile apps")](https://github.com/edmnikolaeva/use_case/tree/main) | [![UML](https://img.shields.io/badge/UML-80CBC4?style=for-the-badge&logoColor=white "UML diagrams including class, sequence, and activity diagrams for system modeling")](https://github.com/edmnikolaeva/uml_diagrams) | [![SQL](https://img.shields.io/badge/SQL-64B5F6?style=for-the-badge&logoColor=white "SQL scripts and queries demonstrating data handling and database operations")](https://github.com/edmnikolaeva/SQL) | [![C4](https://img.shields.io/badge/C4-81C784?style=for-the-badge&logoColor=white "C4 architecture diagrams showing system context, containers, and components")](https://github.com/edmnikolaeva/C4)<br>[![Architecture](https://img.shields.io/badge/Architecture-81C784?style=for-the-badge&logoColor=white "Block diagram showing push notification architecture and component interactions")](https://github.com/edmnikolaeva/architecture) | [![Test Plan](https://img.shields.io/badge/Test%20Plan-4DB6AC?style=for-the-badge&logoColor=white "Test plans outlining cases, criteria, and validation steps for system features")](https://github.com/edmnikolaeva/test_plan) | [More examples](https://github.com/edmnikolaeva/more_examples/tree/main "Additional projects and examples demonstrating broader skill set") |
+<p align="center">
+
+<a href="https://github.com/edmnikolaeva/USM" title="User Story Map">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/usm_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="User Story Map"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/BPMN" title="BPMN 2.0">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/bpmn_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="BPMN"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/uml_diagrams" title="UML Diagrams">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/uml_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="UML"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/rest" title="REST API">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/api_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="REST API"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/architecture" title="C4 & Architecture">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/architecture_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="Architecture"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/SQL" title="SQL Queries & Database Analytics">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/SQL_icon.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="SQL"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/figma" title="Figma Prototypes">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/figma_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="Figma"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/SRS" title="SRS & Documentation">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/srs_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="SRS"/>
+</a>
+
+<a href="https://github.com/edmnikolaeva/more_examples" title="More System Analysis Examples">
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/more_logo.png"
+       width="80" height="80"
+       style="object-fit:contain; border-radius:50%; vertical-align:middle;"
+       alt="More examples"/>
+</a>
+
+</p>
 
 ---
 
