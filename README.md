@@ -14,9 +14,21 @@ I am a System Analyst, currently open to new work opportunities. My core:
 
 ### FEATURED PROJECTS
 
-[📱 Smart Home Mobile App — From Scratch to MVP in 4 weeks](https://github.com/edmnikolaeva/stets_home)  
-
-[🐾 Pet Shop Mobile App — New API Feature Delivered in 2 weeks](https://github.com/edmnikolaeva/pet_store)
+<table>
+<tr>
+<td>
+<a href="https://github.com/edmnikolaeva/stets_home">📱 SMART HOME MOBILE APP — From Scratch to MVP</a>
+Designed and structured a smart home mobile app for a smart device manufacturer. Delivered a complete analytical package and interactive MVP prototype within 4 weeks, including Energy Saving Mode to help the client stand out in the smart home market
+</td>
+<td width="220">
+<a href="https://github.com/edmnikolaeva/stets_home">
+<img src="https://github.com/edmnikolaeva/stets_home/blob/main/stets_home_prototype_main_screen.png" 
+     alt="Visual Anchor — Main Screen Prototype" 
+     width="200"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,7 +45,3 @@ I am a System Analyst, currently open to new work opportunities. My core:
 
 - Telegram: [@edmnikolaeva](https://t.me/edmnikolaeva)  
 - Email: [edmnikolaeva@yandex.ru](mailto:edmnikolaeva@yandex.ru)
-
-
-
-
