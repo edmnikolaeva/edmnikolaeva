@@ -120,7 +120,7 @@ Developed and launched “Pet Insurance” functionality for the LUCKY app (hand
 
 ---
 
-### **🌐 Let's stay in touch!**
+## 🌐 Let's stay in touch!
 
 - Telegram: [@edmnikolaeva](https://t.me/edmnikolaeva)  
 - Email: [edmnikolaeva@yandex.ru](mailto:edmnikolaeva@yandex.ru)
