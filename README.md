@@ -53,28 +53,28 @@ Developed and launched “Pet Insurance” functionality for the LUCKY app (hand
 <div>
 
 <a href="https://github.com/edmnikolaeva/USM" title="User Story Map">
-  <img src="https://github.com/edmnikolaeva/logo/blob/main/usm_logo.png"
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/usm_icon.png"
        width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="User Story Map"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/BPMN" title="BPMN 2.0">
-  <img src="https://github.com/edmnikolaeva/logo/blob/main/bpmn_logo.png"
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/bpmn_icon.png"
        width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="BPMN"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/uml_diagrams" title="UML Diagrams">
-  <img src="https://github.com/edmnikolaeva/logo/blob/main/uml_logo.png"
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/uml_icon.png"
        width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="UML"/>
 </a>
 
 <a href="https://github.com/edmnikolaeva/rest" title="REST API">
-  <img src="https://github.com/edmnikolaeva/logo/blob/main/api_logo.png"
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/rest_icon.png"
        width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="REST API"/>
