@@ -88,7 +88,7 @@ Developed and launched “Pet Insurance” functionality for the LUCKY app (hand
 </a>
 
 <a href="https://github.com/edmnikolaeva/SQL" title="SQL Queries & Database Analytics">
-  <img src="https://github.com/edmnikolaeva/logo/blob/main/sql_logo.png"
+  <img src="https://github.com/edmnikolaeva/logo/blob/main/SQL_new.png"
        width="60" height="60"
        style="object-fit:contain; border-radius:50%; vertical-align:middle;"
        alt="SQL"/>
