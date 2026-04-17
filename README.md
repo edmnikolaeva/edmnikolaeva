@@ -18,7 +18,6 @@ I am a System Analyst, currently open to new work opportunities. My core:
 <tr>
 <td>
 <a href="https://github.com/edmnikolaeva/stets_home">📱 SMART HOME MOBILE APP — From Scratch to MVP</a>
-Delivered a complete analytical package and interactive MVP prototype within 4 weeks, including Energy Saving Mode with instant control (≤2–3s) and reliable state updates ≤1 min, supporting up to 100 devices per home — helping the client gain competitive edge via energy savings appeal and seamless scalability
 </td>
 <td width="220">
 <a href="https://github.com/edmnikolaeva/stets_home">
@@ -33,8 +32,7 @@ Delivered a complete analytical package and interactive MVP prototype within 4 w
 <table>
 <tr>
 <td>
-<a href="https://github.com/edmnikolaeva/pet_store">🐾 PET SHOP MOBILE APP — Pet Insurance Feature</a>  
-Developed and launched “Pet Insurance” functionality for the LUCKY app (handling ~5,000 daily active users with ≤10s response time), enabling quick entry into the growing pet insurance market, revenue growth through new monetization stream, and scalable architecture for additional pet types/services
+<a href="https://github.com/edmnikolaeva/pet_store">🐾 SHOP MOBILE APP — Insurance Feature</a>  
 </td>
 <td width="220">
 <a href="https://github.com/edmnikolaeva/pet_store">
